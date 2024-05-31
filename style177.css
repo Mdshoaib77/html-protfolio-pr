@@ -426,7 +426,7 @@ body {
 
 .experience-item {
     width: 300px;
-    background: url(Images/th\ \(4\).jpg);
+    background: url(th\ \(4\).jpg);
     background-color: #5cbdb9;
     padding: 20px;
     border-radius: 10px;
@@ -488,7 +488,7 @@ body {
 
 .portfolio-item {
     width: 300px;
-    background:url(Images/th\ \(1\).jpg) ;
+    background:url(th\ \(1\).jpg) ;
     background-color: wheat;
     padding: 20px;
     border-radius: 10px;
